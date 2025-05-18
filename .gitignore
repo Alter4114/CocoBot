@@ -1,2 +1,5 @@
-"config.json" 
-"*.py" 
+config.json
+*.py
+*.env
+CocoBot-backup/
+bfg-1.15.0.jar
